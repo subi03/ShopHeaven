@@ -12,13 +12,14 @@ STEPS
 7. It gives the Localhost and port
 8. Through that link, ShopHeaven Application is retrived
 
-![image](https://github.com/subi03/ShopHeaven/assets/96659807/173f9705-580a-48ae-85dd-85d409f5ccd0)
+![Screenshot 2023-10-06 093010](https://github.com/subi03/ShopHeaven/assets/96659807/0979a1ca-c3de-4ca0-b39c-7f01936b3ea1)
 
 
 After Adding to the Cart 
 
-![image](https://github.com/subi03/ShopHeaven/assets/96659807/b8d5aa15-1dac-49e9-906d-7c8b65248df4)
+![Screenshot 2023-10-06 093234](https://github.com/subi03/ShopHeaven/assets/96659807/0b38987c-5e5e-4159-bf5e-2a28327b01c0)
+
 
 Deleting the products from the Cart
 
-![image](https://github.com/subi03/ShopHeaven/assets/96659807/510c644e-f1e7-423d-986a-78cd524f1344)
+![Screenshot 2023-10-06 093401](https://github.com/subi03/ShopHeaven/assets/96659807/47a43cb0-acad-4a07-a8b0-2cdc1a26cb99)
