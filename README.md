@@ -7,10 +7,12 @@ STEPS
 2. unzip the Folder
 3. Open The Folder with VSCode
 4. Open Terminal
-5. Run the Command 'npm install'
-6. Then after completion , ' npm run dev ' in terminal
-7. It gives the Localhost and port
-8. Through that link, ShopHeaven Application is retrived
+5. Then " cd server" && " npm install " Here the server starts and gives a localhost:5252.
+6. Next Spilt the terminal and " cd .." 
+7. Run the Command 'npm install'
+8. Then after completion , ' npm run dev ' in terminal
+9. It gives the Localhost and port
+10. Through that link, ShopHeaven Application is retrived
 
 ![Screenshot 2023-10-06 093010](https://github.com/subi03/ShopHeaven/assets/96659807/0979a1ca-c3de-4ca0-b39c-7f01936b3ea1)
 
