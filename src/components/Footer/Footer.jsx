@@ -1,4 +1,5 @@
 import LinkFooter from './components/LinkFooter';
+import PrivacyFooter from './components/PrivacyFooter';
 import GoToTopBtn from './components/GoToTopBtn';
 
 export default function Footer() {
