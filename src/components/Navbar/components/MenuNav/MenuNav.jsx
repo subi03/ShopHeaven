@@ -15,7 +15,20 @@ function MenuNav({ showMenu }) {
             md:justify-between`}
         >
             <SearchBar />
-            
+            <div
+                className='flex flex-col mt-4
+                md:flex-row md:justify-around md:pl-84 md:w-full md:mt-0'
+            >
+                <NavLink className='linknavbar' to='/home'>
+                    Home
+                </NavLink>
+                <NavLink className='linknavbar' to='/about'>
+                    Login
+                </NavLink>
+                <NavLink className='linknavbar' to='/contact'>
+                    Sign Up
+                </NavLink>
+            </div>
             <InfoFooter classProps={'pt-48 flex flex-col gap-4 md:hidden'} />
         </div>
     );
